@@ -1,6 +1,6 @@
 # Book Recommender.
 
-Authors:* Álvaro Angulo, Lucía Manzoro, Juan José Martín, Álvaro Sanchez.*
+Authors: * Álvaro Angulo, Lucía Manzoro, Juan José Martín, Álvaro Sanchez.*
 
 ## Introduction:
 We obtanined a set of books from htttp://www.leemp3.com/
@@ -25,6 +25,6 @@ In funciones.py we can see how to make the recommender, we have done it using tf
 In visualizacion.py are explained the steps to make a graph which allow us to visualize this high dimensional data (other options are 
 make clusters analysis and PCA). In visualizacion/grafo200libros.gephi we see an exaple, and bellow we see two results.
 
-![graph_authors]((visualizacion/libros_autor.png )
+![graph_authors](visualizacion/libros_autor.png )
 
 ![graph_200](visualizacion/200libros.png )
