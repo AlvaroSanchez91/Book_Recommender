@@ -1,10 +1,9 @@
 # Book Recommender.
 
-Authors: * Álvaro Angulo, Lucía Manzoro, Juan José Martín, Álvaro Sanchez.*
+Authors:  Álvaro Angulo, Lucía Manzoro, Juan José Martín, Álvaro Sanchez.
 
 ## Introduction:
-We obtanined a set of books from htttp://www.leemp3.com/
-disponibles_textos.htm .  Once we have these books we can use the metadata and the similitudes between 
+We obtanined a set of books from www.leemp3.com .  Once we have these books we can use the metadata and the similitudes between 
 the books to make a recommendation. We also can make visualizations (gephi) which allow us to see the diferents groups 
 of books.
 
